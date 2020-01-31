@@ -1,7 +1,7 @@
 # java-tutorial
 
 # Build: 
-javac TopLevelWindow.java
+#javac TopLevelWindow.java
 
 #Run:
-java TopLevelWindow
+#java TopLevelWindow
