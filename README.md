@@ -1,4 +1,7 @@
 # java-tutorial
 
-# Build: javac helloworld.java
+# Build: 
+javac TopLevelWindow.java
 
+#Run:
+java TopLevelWindow
